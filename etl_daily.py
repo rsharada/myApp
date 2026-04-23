@@ -1,0 +1,1 @@
+print("run etl_daily.py")
